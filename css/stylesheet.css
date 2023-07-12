@@ -1,0 +1,40 @@
+﻿h1 {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    border-image: auto;
+    font-size: 0px;
+    font-family: 'Wide Latin';
+    font-style: italic;
+    color: orange;
+    padding: 0px;
+}
+
+h2 {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    border-image: auto;
+    font-size: 30px;
+    font-family: 'Wide Latin';
+    color: whitesmoke;
+    padding: 10px;
+}
+
+h3 {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    border-image: auto;
+    font-size: 0px;
+    font-family: 'Wide Latin';
+    font-style: italic;
+    color: orange;
+    padding: 0px;
+}
+
+.a {
+    font-size: 70px;
+    color: deeppink;
+    padding: 0, 20px, 0, 0 /*top right bottom left*/
+}
